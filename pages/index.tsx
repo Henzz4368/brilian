@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>balxzzy | Spotify Music</title>
+        <title>Henzz | Spotify Music</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
         <link rel="stylesheet" href="https://nyimpen.vercel.app/component/spotfy.css" />
@@ -23,7 +23,7 @@ export default function Home() {
       <div className="container">
         <header>
           <img src="https://nyimpen.vercel.app/component/logoku.png" alt="Profile Picture" className="profile-pic" />
-          <h1 className="nama">balxzzy</h1>
+          <h1 className="nama">Henzz</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Kalimantan Timur, Samarinda
           </p>
@@ -49,17 +49,14 @@ export default function Home() {
         </section>
 
         <div className="social-icons">
-          <a href="https://github.com/balxz" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://github.com/henzz4368" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://wa.me/6281276400345?text=hi+balxzzy" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://wa.me/6285711324080?text=hi+Henzz" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-whatsapp"></i>
           </a>
           <a href="https://instagram.com/iqstore78" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-instagram"></i>
-          </a>
-          <a href="https://api.balxzzy.xyz" target="_blank" className="social-link" rel="noopener noreferrer">
-            <i className="fas fa-arrow-up-right-from-square"></i>
           </a>
         </div>
       </div>
